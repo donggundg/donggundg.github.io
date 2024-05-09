@@ -1,15 +1,9 @@
 # donggundg.github.io
 
 ## Hello, I am Donggun Kim
-
 ---
 
-### Introduction
-Hello, my name is Donggun Kim. I am 27 years old.
-
----
-
-### Skills
+## Skills
 - C++
 - Python
 - SQL
