@@ -14,8 +14,8 @@ Here are some of the skills and technologies I possess:
 
 - **Programming Languages:** Python, Java, C++
 - **Web Development:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Node.js, Django
-- **Databases:** SQL, MongoDB
+- **Frameworks & Libraries:** Node.js
+- **Databases:** MySQL
 - **Tools:** Git, Docker, VS Code
 
 ---
@@ -26,7 +26,8 @@ I have pursued my education in the following fields:
 
 - **Degree:** Bachelor of Science in Computer Science, Biomechatronics
 - **University:** SungKwunKwan University
-- **Courses:** During my studies, I have taken courses such as OS, Open-Source Software Practice.
+- **Courses:** OS, Open-Source Software Practice, Data Structure, System Programming, Computer Architecture, Web Programming Practice, Java Programming Practice, Algorithm, Big Data Analysis Engineering, Applied Computer Programming
+  
 - **Academic Accomplishments:** I have conducted research on optimizing PIM using deep learning.
 
 ---
@@ -35,7 +36,8 @@ I have pursued my education in the following fields:
 
 Here are some of my notable achievements and certifications:
 
-- **Achievements:** I currently have experience in creating and running a club with 80 members.
+- **Achievements:** I currently have experience in creating and running a social club with 80 members.
+- **Completions:** Career High DT course completion (financial business automation using Python)
 
 ---
 
@@ -45,5 +47,7 @@ Feel free to reach out to me through the following channels:
 
 - **Email:** rlaehdrjs98@g.skku.edu
 - **GitHub:** https://github.com/donggundg
+- **Blog:** https://blog.naver.com/dinodragon
+- **Notion:** https://organized-bubbler-3e4.notion.site/09bf5c931f92440e9101fb22a90c3879?pvs=4
 
 
