@@ -44,6 +44,6 @@ Here are some of my notable achievements and certifications:
 Feel free to reach out to me through the following channels:
 
 - **Email:** rlaehdrjs98@g.skku.edu
-- **GitHub:** donggundg
+- **GitHub:** https://github.com/donggundg
 
 
