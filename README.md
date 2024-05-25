@@ -45,9 +45,9 @@ Here are some of my notable achievements and certifications:
 
 Feel free to reach out to me through the following channels:
 
-- **Email:** rlaehdrjs98@g.skku.edu
-- **GitHub:** https://github.com/donggundg
-- **Blog:** https://blog.naver.com/dinodragon
-- **Notion:** https://organized-bubbler-3e4.notion.site/09bf5c931f92440e9101fb22a90c3879?pvs=4
+- **Email:** <a href="mailto:rlaehdrjs98@g.skku.edu">rlaehdrjs98@g.skku.edu</a>
+- **GitHub:** <a href="https://github.com/donggundg">https://github.com/donggundg</a>
+- **Blog:** <a href="https://blog.naver.com/dinodragon">https://blog.naver.com/dinodragon</a>
+- **Notion:** <a href="https://organized-bubbler-3e4.notion.site/09bf5c931f92440e9101fb22a90c3879?pvs=4">https://organized-bubbler-3e4.notion.site/09bf5c931f92440e9101fb22a90c3879?pvs=4</a>
 
 
