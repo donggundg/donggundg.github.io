@@ -26,7 +26,7 @@ I have pursued my education in the following fields:
 
 - **Degree:** Bachelor of Science in Computer Science, Biomechatronics
 - **University:** SungKwunKwan University
-- **Courses:** OS, Open-Source Software Practice, Data Structure, System Programming, Computer Architecture, Web Programming Practice, Java Programming Practice, Algorithm, Big Data Analysis Engineering, Applied Computer Programming
+- **Courses:** OS, Open-Source Software Practice, Data Structure, System Programming, Computer Architecture, Web Programming Practice, Java Programming Practice, Algorithm, Big Data Analysis Engineering, Applied Computer Programming, Programming Language
   
 - **Academic Accomplishments:** I have conducted research on optimizing PIM using deep learning.
 
